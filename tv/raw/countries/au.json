@@ -1,7 +1,7 @@
 [
   {
-    "nanoid": "yHegYqGe8Y9Q5E",
-    "name": "10 Bold Adelaide",
+    "nanoid": "lxtnwZjaAVKkTo",
+    "name": "10 Bold",
     "stream_urls": [
       "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
     ],
@@ -51,7 +51,7 @@
   },
   {
     "nanoid": "OTtgOdMuzH3Ad4",
-    "name": "ausbiz TV",
+    "name": "Ausbiz TV",
     "stream_urls": [
       "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8"
     ],
@@ -176,7 +176,7 @@
     "name": "Force Thirteen Earthquakes",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/C6bukY3UWCo"
+      "https://www.youtube-nocookie.com/embed/Os7qCABjS28"
     ],
     "languages": [
       "eng"
@@ -236,6 +236,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "ara",
       "eng"
     ],
     "country": "au",
@@ -345,6 +346,32 @@
     ],
     "country": "au",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kWdBvQFz5aue5n",
+    "name": "Sky Racing 1",
+    "stream_urls": [
+      "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "mDtjo6SWz3rKx0",
+    "name": "Sky Racing 2",
+    "stream_urls": [
+      "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "gP0EIOZBWJnKLv",

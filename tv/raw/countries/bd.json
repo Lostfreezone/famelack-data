@@ -39,26 +39,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bSniDzyHJKXnhh",
-    "name": "BTV Chattogram",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AgfCNepngSlM7x",
     "name": "Channel 24",
     "stream_urls": [
       "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Wp9gzJEQGlc"
+      "https://www.youtube-nocookie.com/embed/YIBA0-ZdN7o"
     ],
     "languages": [
       "ben"
@@ -67,8 +54,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wPKzw9xyYinfk2",
-    "name": "DBC NEWS",
+    "nanoid": "mxpvI5Qy87eBeF",
+    "name": "DBC News",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/XBv_8URJEgU"
@@ -84,6 +71,9 @@
     "name": "Desh TV",
     "stream_urls": [
       "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8"
+    ],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XVPubiGWI_Q"
     ],
     "youtube_urls": [],
     "languages": [
@@ -138,20 +128,7 @@
     "name": "Independent Television",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iSTg_hjaaT0"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VVD7BNKW7RdH1t",
-    "name": "Independent TV",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8"
+      "https://www.youtube-nocookie.com/embed/epya2A1zdrM"
     ],
     "youtube_urls": [],
     "languages": [
@@ -181,9 +158,7 @@
     "stream_urls": [
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TC-Yu5y9TAY"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ben"
     ],
@@ -223,32 +198,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/tbkWU88p5ks"
     ],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "K8OFg70tOZ5TpR",
-    "name": "RTV",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-RTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rq2drD41O4s9tZ",
-    "name": "Sangsad TV",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "ben"
     ],

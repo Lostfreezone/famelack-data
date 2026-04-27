@@ -26,21 +26,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gqagHcGI6e4lYf",
-    "name": "Al-Jawadain TV",
+    "nanoid": "AeG4E88wj1aN3z",
+    "name": "Afarin TV",
     "stream_urls": [
-      "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "kur"
     ],
     "country": "iq",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O42irmQexc6nDD",
-    "name": "Al-Sharqiya",
+    "nanoid": "0MeH4u5WZGBr4b",
+    "name": "Al Sharqiya",
     "stream_urls": [
       "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
     ],
@@ -52,10 +52,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F9S4QFLYWa9FpX",
-    "name": "Al-Sharqiya News",
+    "nanoid": "uIjblLy9ix24di",
+    "name": "Al Sharqiya News",
     "stream_urls": [
       "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gqagHcGI6e4lYf",
+    "name": "Al-Jawadain TV",
+    "stream_urls": [
+      "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -124,7 +137,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "ara",
+      "eng"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -156,8 +170,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hbDQcoAfqvGJ7I",
-    "name": "iNEWS TV",
+    "nanoid": "5F2s1uM9md4N38",
+    "name": "I News",
     "stream_urls": [
       "https://live.i-news.tv/hls/stream.m3u8"
     ],
@@ -202,7 +216,9 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "kur"
+      "ara",
+      "kur",
+      "tur"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -267,6 +283,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "ara",
       "kur"
     ],
     "country": "iq",
@@ -351,8 +368,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P3901swICLQKvd",
-    "name": "Zagros",
+    "nanoid": "1BItbbUxYfR9by",
+    "name": "Zagros TV",
     "stream_urls": [
       "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
     ],

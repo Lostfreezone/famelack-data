@@ -7,6 +7,7 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "eng",
       "fra"
     ],
     "country": "cm",
@@ -26,8 +27,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qknhY9336tud8v",
-    "name": "CEN Télévision",
+    "nanoid": "nNsF0VqWbNqktH",
+    "name": "CEN Television",
     "stream_urls": [
       "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8"
     ],
@@ -41,6 +42,19 @@
   {
     "nanoid": "e5Cesrm1AEWOjC",
     "name": "TR24",
+    "stream_urls": [
+      "https://stream.it-innov.com/tr24/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6Aibqu4gfNeTW",
+    "name": "TR24 Television",
     "stream_urls": [
       "https://stream.it-innov.com/tr24/index.m3u8"
     ],

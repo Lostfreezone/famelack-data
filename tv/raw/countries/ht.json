@@ -7,14 +7,15 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false
   },
   {
     "nanoid": "RbybGfd6WxqoEp",
-    "name": "NETALKOLE TV",
+    "name": "Netalkole TV",
     "stream_urls": [
       "https://watch.haitilive.net/naktvhd/index.m3u8"
     ],
@@ -26,27 +27,43 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j6PYx6KL1bwCxI",
-    "name": "Radio Télé 4VEH",
+    "nanoid": "BeKI8k9qQhkMfs",
+    "name": "Radio Tele 4VEH",
     "stream_urls": [
       "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C6oSzIHCShu5sK",
-    "name": "Radio Télé Hit",
+    "nanoid": "FG2fPV7i5X0IEO",
+    "name": "Radio Tele Full Gospel",
+    "stream_urls": [
+      "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "hat"
+    ],
+    "country": "ht",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DKvBoloLNtwxw9",
+    "name": "Radio Tele Hit",
     "stream_urls": [
       "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false
@@ -59,7 +76,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false
@@ -72,7 +90,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false
@@ -85,7 +104,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "fra",
+      "hat"
     ],
     "country": "ht",
     "isGeoBlocked": false

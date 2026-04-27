@@ -72,7 +72,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "lug"
     ],
     "country": "ug",
     "isGeoBlocked": false
@@ -111,7 +112,10 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "nyn"
+      "cgg",
+      "nyn",
+      "nyo",
+      "ttj"
     ],
     "country": "ug",
     "isGeoBlocked": false
@@ -124,7 +128,12 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ach"
+      "ach",
+      "adh",
+      "alz",
+      "kdi",
+      "laj",
+      "luo"
     ],
     "country": "ug",
     "isGeoBlocked": false

@@ -7,7 +7,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "nld"
+      "nld",
+      "pap"
     ],
     "country": "cw",
     "isGeoBlocked": false
@@ -20,20 +21,23 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "nld"
+      "nld",
+      "pap"
     ],
     "country": "cw",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ytgkmKRLzQAL3O",
-    "name": "VAM Vid's & More",
+    "nanoid": "tPLF3mRJvdIAUq",
+    "name": "VAM TV",
     "stream_urls": [
       "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "nld"
+      "eng",
+      "nld",
+      "pap"
     ],
     "country": "cw",
     "isGeoBlocked": false

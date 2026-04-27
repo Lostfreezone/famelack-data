@@ -7,7 +7,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ron"
+      "ron",
+      "rus"
     ],
     "country": "md",
     "isGeoBlocked": false
@@ -20,7 +21,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "ron"
+      "ron",
+      "rus"
     ],
     "country": "md",
     "isGeoBlocked": false
@@ -39,8 +41,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HCXSb3xpk25kNM",
-    "name": "Rlive TV",
+    "nanoid": "cu9S3t2cvLny0T",
+    "name": "PRO TV Chisinau",
+    "stream_urls": [
+      "https://stream.protv.md/live/sursa-1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7uWN0zEbouFBcW",
+    "name": "Realitatea TV",
     "stream_urls": [
       "https://realitatealive.md/tv/rlive.m3u8"
     ],
@@ -53,7 +68,7 @@
   },
   {
     "nanoid": "Vz912DM7zVlEgp",
-    "name": "Tezaur TV (576i)",
+    "name": "Tezaur TV",
     "stream_urls": [
       "https://tezaurtv.md/stream/index.m3u8"
     ],
@@ -65,8 +80,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNw3JhkAal07LE",
-    "name": "TVR Moldova HD",
+    "nanoid": "sI0ew6lEh5sEPV",
+    "name": "TV-Nord",
+    "stream_urls": [
+      "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "osje3aOO3BhNwb",
+    "name": "TVR Moldova",
     "stream_urls": [
       "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
       "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8"
@@ -76,6 +105,6 @@
       "ron"
     ],
     "country": "md",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   }
 ]

@@ -8,7 +8,8 @@
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "eng",
+      "nor"
     ],
     "country": "no",
     "isGeoBlocked": false
@@ -18,6 +19,19 @@
     "name": "Frikanalen",
     "stream_urls": [
       "https://frikanalen.no/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e3NUApkCSGAi5K",
+    "name": "TV Ostfold",
+    "stream_urls": [
+      "https://streamnorge.com:8088/hls/tvo.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

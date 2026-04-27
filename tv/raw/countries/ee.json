@@ -78,32 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tzMdrs8CBQFjjA",
-    "name": "ETV+",
-    "stream_urls": [
-      "https://sb.err.ee/live/etvpluss.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SLi8f8Yz14oKR0",
-    "name": "ETV2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SY6JGWv0oWKy6h",
     "name": "Life TV",
     "stream_urls": [
@@ -153,7 +127,7 @@
       "eng"
     ],
     "country": "ee",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "6GLl0eCnvKpLx9",
@@ -179,6 +153,6 @@
       "eng"
     ],
     "country": "ee",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   }
 ]
