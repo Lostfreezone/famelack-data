@@ -1898,6 +1898,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4lRmmKh0IB2m5u",
+    "name": "TV Campane 1",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/8032/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PoFjoPeTQSvrgP",
     "name": "TR Sport",
     "stream_urls": [
@@ -1911,12 +1924,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4lRmmKh0IB2m5u",
-    "name": "TV Campane 1",
+    "nanoid": "4lRmmKh0IB2mr3",
+    "name": "TrmH24",
     "stream_urls": [
-      "https://eu1.servers10.com:8081/8032/index.m3u8"
+      
     ],
-    "youtube_urls": [],
+    "youtube_urls": ["https://www.youtube.com/user/trmh24/live"
+    ],
     "languages": [
       "ita"
     ],
